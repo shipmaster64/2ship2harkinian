@@ -381,7 +381,7 @@ void DmStk_PlaySfxForIntroCutsceneFirstPart(DmStk* this, PlayState* play) {
             break;
 
         case 2095:
-            Actor_PlaySfx(&this->actor, NA_SE_EN_STAL06_SURPRISED);
+            Actor_PlaySfx(&this->actor, NA_SE_EN_STALKIDS_SURPRISED);
             break;
 
         case 2190:
